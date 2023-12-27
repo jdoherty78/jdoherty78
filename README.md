@@ -75,7 +75,7 @@ if fave_language:
 <p align="left">
 
 <a href="https://github.com/jdoherty78">
-<img src="https://komarev.com/ghpvc/?username=jdoherty78&color=red" alt="GitHub Profile" />
+<img src="https://komarev.com/ghpvc/?username=jdoherty78&color=red" alt="GitHub Profile">
 </a>
 
 <a href="www.linkedin.com/in/joseph-doherty-5597a688">

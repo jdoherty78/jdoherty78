@@ -15,7 +15,7 @@
 
 - 🪚 I'm often dreaming of building an off-grid cabin, timber frame style.  
 
-- 📫 How to reach me [LinkedIn profile]  www.linkedin.com/in/joseph-doherty-5597a688 
+- 📫 How to reach me [LinkedIn profile]  (www.linkedin.com/in/joseph-doherty-5597a688) 
 
 ```python
 

@@ -12,7 +12,7 @@
 
 - I'm also an avid student of economics. What an interesting  time 🤔 
 
-- I’m always looking for new opportunities to explore 💞️ 
+- I’m always looking for new opportunities to explore 🌎 
 
 - I'm often dreaming of building an off-grid cabin, timber frame style 🪚   
 

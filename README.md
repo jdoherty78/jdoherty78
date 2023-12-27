@@ -1,14 +1,21 @@
-## Hi there 👋
 
-<img src="https://www.freecodecamp.org/news/content/images/2021/08/chris-ried-ieic5Tq8YMk-unsplash.jpg" width="150" height="150" alt="ALTERNATIVE_TEXT" />
+
+
 
 <br>
 
-- 😊 I’m @MikeTeachesCode, creator of [Holistic Coding](https://www.holisticcoding.com)
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Blender, Godot and React
-- 💞️ I’m looking to work as a full stack developer
-- 📫 How to reach me at my [LinkedIn profile](https://www.linkedin.com/in/michael-russell-155953a6/)
+- 😊 I’m @jdoherty78, a 49'ers Faithful Since 1988.
+
+- 👀 I’m interested in network automation, information technology security, and coding in general
+- 🌱 I’m currently working on incorporating Git into my CI/CD pipeline
+
+- 🤔 I'm also an avid student of economics. What an interesting  time.
+
+- 💞️ I’m always looking for new opportunities to explore
+
+- 🪚 I'm often dreaming of building an off-grid cabin, timber frame style.  
+
+- 📫 How to reach me [LinkedIn profile](www.linkedin.com/in/joseph-doherty-5597a688)
 
 ```python
 
@@ -16,62 +23,84 @@ fave_language = True
 
 if fave_language:
     print("Python!")
-else:
-    print("JavaScript!")
 ```
 
-```javascript
-console.log("Javascript is my 2nd fave!")
-```
  
 ## Skill Set 
 
 - Python
 
     - PyPI packages
-    - GUI apps
+    - GUI apps 
     - CLI apps
     - Mobile apps
     - Web apps
-- Flask
-- React
-- JavaScript, CSS and HTML
-- PostgreSQL
-- SQLite
-- SQLAlchemy
-- Redux
-- Docker
-- Heroku
-- Git
-- AWS S3
-- Blender
+- Cisco
+
+    - CCNA (x 2)<br>
+    - Cisco Specialist (x 1)<br>
+        - CCNP (in progress... I'll get there someday)<br>
+
+- Fortinet
+
+    - FortiGate<br>
+
+- HP
+
+    - Aruba Networking
+    - Comware 5... let it rest in peace.<br>  
 
 ## Languages
 
 <details><summary>Dropdown list of languages I use: </summary>
-    
+
     - Python
     - CSS
-    - JavaScript
     - HTML
     - SQL
-        - PostgreSQL
-        - SQLAlchemy
-        - SQLite
+        - PostgreSQL (not really, just testing the drop down)
+        - SQLAlchemy (not really, just testing the drop down)
+        - SQLite (not really, just testing the drop down)
         - MySQL
     
-</details>
+</details>    
 
 ## Looking for
 - Collaboration on projects
-- Remote work 
-- Full Stack roles
+- Local / Meaningful Work
+- Good times 
+
+
+<p align="left">
+
+<a href="https://github.com/jdoherty78">
+<img src="https://komarev.com/ghpvc/?username=jdoherty78&color=red" alt="GitHub Profile" />
+</a>
+
+<a href="www.linkedin.com/in/joseph-doherty-5597a688">
+<img alt="Linkedin followers" src="https://img.shields.io/badge/followers-301-blue?color=blue&logo=linkedin">
+</a>
+
+
+</p>    
+
+
+
+## 😂 Random joke!
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+
+
+
+<!---
+All this should be 
+commented out
+
+
+
 
 ## My Links
-<p align="left">
-  <a href="https://github.com/MikeTeachesCode/MikeTeachesCode">
-    <img src="https://komarev.com/ghpvc/?username=MikeTeachesCode&color=red" alt="profile views" />
-  </a>
+
 
   <a href="https://stackoverflow.com/users/7776559">
     <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/7776559?color=orange&label=reputation&logo=stackoverflow">
@@ -81,9 +110,7 @@ console.log("Javascript is my 2nd fave!")
   <a href="https://github.com/MikeTeachesCode?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/MikeTeachesCode?color=yellow&logo=github">
   </a>
-  <a href="https://www.linkedin.com/in/michael-russell-155953a6">
-    <img alt="Linkedin followers" src="https://img.shields.io/badge/followers-76-blue?color=blue&logo=linkedin">
-  </a>
+
 </p>
 
 
@@ -96,8 +123,7 @@ console.log("Javascript is my 2nd fave!")
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miketeachescode&layout=compact&theme=blue-green)
 
 
-## 😂 Random joke!
-![Jokes Card](https://readme-jokes.vercel.app/api)
 
+<center><img src="https://s3.amazonaws.com/1rmg-49ers/wp-content/uploads/2018/04/07034500/logo.png" width="150" height="150" class="center" alt="BCB - 2023 NFL MVP"/></center>
 
-
+-->

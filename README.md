@@ -4,18 +4,19 @@
 
 <br>
 
-- 😊 I’m @jdoherty78, a 49'ers Faithful Since 1988.
+- I’m @jdoherty78, a 49'ers Faithful Since 1988 😊 
 
-- 👀 I’m interested in network automation, information technology security, and coding in general
-- 🌱 I’m currently working on incorporating Git into my CI/CD pipeline
+- I’m interested in network automation, information technology security, and coding in general 👀 
+  
+- I’m currently working on incorporating Git into my CI/CD pipeline 🌱 
 
-- 🤔 I'm also an avid student of economics. What an interesting  time.
+- I'm also an avid student of economics. What an interesting  time 🤔 
 
-- 💞️ I’m always looking for new opportunities to explore
+- I’m always looking for new opportunities to explore 💞️ 
 
-- 🪚 I'm often dreaming of building an off-grid cabin, timber frame style.  
+- I'm often dreaming of building an off-grid cabin, timber frame style 🪚   
 
-- 📫 How to reach me [LinkedIn profile](www.linkedin.com/in/joseph-doherty-5597a688) 
+- How to reach me [LinkedIn profile](www.linkedin.com/in/joseph-doherty-5597a688) 📫 
 
 ```python
 

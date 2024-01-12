@@ -68,8 +68,8 @@ if fave_language:
 
 ## Looking for
 - Collaboration on projects
-- Local / Meaningful Work
-- Good times 
+- Nemo
+
 
 
 <p align="left">
@@ -91,31 +91,6 @@ if fave_language:
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
-
-
-<!---
-All this should be 
-commented out
-
-
-
-
-## My Links
-
-
-  <a href="https://stackoverflow.com/users/7776559">
-    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/7776559?color=orange&label=reputation&logo=stackoverflow">
-  </a>
-
-
-  <a href="https://github.com/MikeTeachesCode?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/MikeTeachesCode?color=yellow&logo=github">
-  </a>
-
-</p>
-
-
-## My Stats
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MikeTeachesCode&show_icons=true&theme=radical)

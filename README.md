@@ -87,19 +87,5 @@ if fave_language:
 
 
 
-## 😂 Random Joke!
+##  Random Joke! - refresh that mamma jamma
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-
-
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MikeTeachesCode&show_icons=true&theme=radical)
-
-
-![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miketeachescode&layout=compact&theme=blue-green)
-
-
-
-<center><img src="https://s3.amazonaws.com/1rmg-49ers/wp-content/uploads/2018/04/07034500/logo.png" width="150" height="150" class="center" alt="BCB - 2023 NFL MVP"/></center>
-
--->

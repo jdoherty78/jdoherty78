@@ -1,9 +1,5 @@
 
-
-
-
 <br>
-
 - I’m @jdoherty78, a 49ers Faithful Since 1988 😊 
 
 - I’m interested in network automation, information technology security, and coding in general 👀 
@@ -23,6 +19,7 @@ fave_language = True
 
 if fave_language:
     print("Python!")
+
 ```
 
  
@@ -30,26 +27,15 @@ if fave_language:
 
 - Python
 
-    - PyPI packages
-    - GUI apps 
-    - CLI apps
-    - Mobile apps
-    - Web apps
 - Cisco
-
     - CCNA (x 2)<br>
-    - Cisco Specialist (x 1)<br>
-        - CCNP (in progress... I'll get there someday)<br>
+    - Cisco Specialist (x 1)<br> 
 
 - Fortinet
-
     - FortiGate<br>
-
 - HP
-
     - Aruba Networking
     - Comware 5... let it rest in peace.<br>  
-
 ## Languages
 
 <details><summary>Dropdown list of languages I use: </summary>
@@ -61,7 +47,7 @@ if fave_language:
         - PostgreSQL (not really, just testing the drop down)
         - SQLAlchemy (not really, just testing the drop down)
         - SQLite (not really, just testing the drop down)
-        - MySQL
+        - MySQL (not really, just testing the drop down)
     
 </details>    
 

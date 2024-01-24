@@ -1,6 +1,6 @@
 
 <br>
-- I’m @jdoherty78, a 49ers Faithful Since 1988 😊 
+I’m @jdoherty78, a 49ers Faithful Since 1988 😊 
 
 - I’m interested in network automation, information technology security, and coding in general 👀 
   

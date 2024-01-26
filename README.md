@@ -71,6 +71,6 @@ if fave_language:
 <img src="https://komarev.com/ghpvc/?username=jdoherty78&color=red" alt="GitHub Profile">
 </a>
 
-<a href="www.linkedin.com/in/joseph-doherty-5597a688">
+<a href="https://www.linkedin.com/in/joseph-doherty-5597a688">
 <img alt="Linkedin followers" src="https://img.shields.io/badge/followers-28-blue?color=blue&logo=linkedin">
 </a>

@@ -56,9 +56,17 @@ if fave_language:
 - Nemo
 
 
+</p>    
+
+<p align="center">
+
+##  Random Joke! - refresh that mamma jamma
+![Jokes Card](https://readme-jokes.vercel.app/api)
+</p>
 
 <p align="left">
-
+  
+## Metrics
 <a href="https://github.com/jdoherty78">
 <img src="https://komarev.com/ghpvc/?username=jdoherty78&color=red" alt="GitHub Profile">
 </a>
@@ -66,11 +74,3 @@ if fave_language:
 <a href="www.linkedin.com/in/joseph-doherty-5597a688">
 <img alt="Linkedin followers" src="https://img.shields.io/badge/followers-301-blue?color=blue&logo=linkedin">
 </a>
-
-
-</p>    
-
-
-
-##  Random Joke! - refresh that mamma jamma
-![Jokes Card](https://readme-jokes.vercel.app/api)

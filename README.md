@@ -2,15 +2,11 @@
 <br>
 I’m @jdoherty78, a 49ers Faithful Since 1988 😊 
 
-- I’m interested in network automation, security, and coding 👀 
-  
 - I’m currently working on incorporating Git into my CI/CD pipeline 🌱 
-
-- I'm also an avid student of economics. What an interesting time 🤔 
 
 - I’m always looking for new opportunities to explore 🌎 
 
-- I'm often dreaming of building an off-grid cabin, timber frame style 🪚   
+- Let's build something. 🪚   
 
 
 ```python

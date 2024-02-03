@@ -56,7 +56,7 @@ if fave_language:
 
 <p align="center">
 
-##  Random Joke! - refresh that mamma jamma
+##  Random Joke! - refresh me
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 </p>
 

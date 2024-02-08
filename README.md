@@ -19,19 +19,7 @@ if fave_language:
 ```
 
  
-## Skill Set 
 
-- Python
-
-- Cisco
-    - CCNA (x 2)<br>
-    - Cisco Specialist (x 1)<br> 
-
-- Fortinet
-    - FortiGate<br>
-- HP
-    - Aruba Networking
-    - Comware 5... let it rest in peace.<br>  
 ## Languages
 
 <details><summary>Dropdown list of languages I use: </summary>

@@ -6,7 +6,7 @@ I’m @jdoherty78, a 49ers Faithful Since 1988 😊
 
 - I’m always looking for new opportunities to explore 🌎 
 
-- Let's build something. 🪚   
+- Let's build something. 🧩
 
 
 ```python

@@ -56,5 +56,5 @@ if fave_language:
 </a>
 
 <a href="https://www.linkedin.com/in/joseph-doherty-5597a688">
-<img alt="Linkedin followers" src="https://img.shields.io/badge/followers-32-blue?color=blue&logo=linkedin">
+<img alt="Linkedin followers" src="https://img.shields.io/badge/followers-33-blue?color=blue&logo=linkedin">
 </a>

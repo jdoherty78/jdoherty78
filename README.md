@@ -3,7 +3,7 @@
 I’m @jdoherty78, a 49ers Faithful Since 1988 😊 
 
 - I’m currently working on incorporating Git into my CI/CD pipeline 🌱
---( https://d131nsyfe9k437.cloudfront.net/  pipeline complete )
+<br>  ( https://d131nsyfe9k437.cloudfront.net/  pipeline complete )
 
 - I’m always looking for new opportunities to explore 🌎 
 

@@ -1,12 +1,17 @@
 
 <br>
-I’m @jdoherty78, a 49ers Faithful Since 1988 😊 
+I’m @jdoherty78, a 49ers Faithful Since 1988 😊 <br>
+I’m always looking for new opportunities to explore 🌎 
+<br><br>
+I’m currently working on incorporating Git into my CI/CD pipeline 🌱 <br>
+( https://d131nsyfe9k437.cloudfront.net/  pipeline complete )
+<br><br>
 
-- I’m currently working on incorporating Git into my CI/CD pipeline 🌱
-<br>  ( https://d131nsyfe9k437.cloudfront.net/  pipeline complete )
+Analyze Python Files for Vulnerabilites ( semgrep )   <br>
+( https://cyber-analyzer.wittysea-152c62cd.eastus.azurecontainerapps.io/ )
 
-- I’m always looking for new opportunities to explore 🌎 
 
+<br><br><br><br>
 - Let's build something. 🧩
 
 

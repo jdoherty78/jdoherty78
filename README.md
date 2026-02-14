@@ -8,7 +8,7 @@ I’m currently working on incorporating Git into my CI/CD pipeline 🌱 <br>
 <br><br>
 
 Analyze Python Files for Vulnerabilites ( semgrep ) :smirk: <br>
-( https://cyber-analyzer.wittysea-152c62cd.eastus.azurecontainerapps.io/ Azure)
+(Azure)
 
 
 <br><br><br><br>

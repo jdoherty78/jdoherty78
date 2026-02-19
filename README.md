@@ -12,7 +12,7 @@ Analyze Python Files for Vulnerabilites ( semgrep ) :smirk: <br>
 <br><br>
 
 AI Financial Planner (WIP) <br>
-https://d1z4a2nhj99tbm.cloudfront.net
+
 <br><br>
 
 <br><br><br><br>

@@ -9,7 +9,11 @@ I’m currently working on incorporating Git into my CI/CD pipeline 🌱 <br>
 
 Analyze Python Files for Vulnerabilites ( semgrep ) :smirk: <br>
 (Azure)
+<br><br>
 
+AI Financial Planner (WIP) <br>
+https://d1z4a2nhj99tbm.cloudfront.net
+<br><br>
 
 <br><br><br><br>
 - Let's build something. 🧩
